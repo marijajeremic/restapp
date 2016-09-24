@@ -1,0 +1,37 @@
+#img-home{
+
+}
+.footer{
+    text-align: center;
+}
+#big_img{
+    width: 900px;
+    height: 400px;
+}
+#list_img{
+    width: 430px;
+    height: 250px;
+    display: inline;
+    margin: 5px;
+}
+
+.post_img{
+    width: 400px;
+    height: 250px;
+}
+.alert-success{
+    display: none;
+}
+.home_img{
+    width: 300px;
+    height: 200px;
+}
+
+.prof_images{
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+.home_title{
+    text-align: center;
+}

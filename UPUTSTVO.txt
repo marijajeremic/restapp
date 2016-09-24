@@ -1,0 +1,7 @@
+Potrebno je importovati bazu - SQL file pod nazivom 'blogapp.sql'.
+Koriscen je access key koji sam rucno ubacila u fajl 'access_keys,json'.
+
+Po potrebi moguce je ubaciti i svoje kljuceve u taj fajl i koristiti ih.
+Potrebno je samo u tom slucaju promeniti naziv kljuca u ajax pozivu,
+jer za svaki upit ka API-ju je neophodan kljuc.
+
